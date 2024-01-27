@@ -12,6 +12,8 @@ const order = (props) => {
     });
   }
 
+  // Adding comment
+
   const ingredientOutput = ingredients.map((ig) => {
     return (
       <span
